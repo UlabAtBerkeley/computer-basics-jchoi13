@@ -1,0 +1,9 @@
+# conda environments:
+#
+ulab_2.7                 /Users/jenniferchoi/anaconda3/envs/ulab_2.7
+ulab_27                  /Users/jenniferchoi/anaconda3/envs/ulab_27
+ulab_3.6                 /Users/jenniferchoi/anaconda3/envs/ulab_3.6
+ulab_36                  /Users/jenniferchoi/anaconda3/envs/ulab_36
+ulab_36jupyter           /Users/jenniferchoi/anaconda3/envs/ulab_36jupyter
+root                  *  /Users/jenniferchoi/anaconda3
+
